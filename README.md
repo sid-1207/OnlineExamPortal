@@ -1,5 +1,4 @@
 # OnlineExamPortal
----
 ## Team Members
 ### [Darsh Bavishi](https://github.com/DarshBavishi)
 ## Tech Stack
@@ -15,6 +14,6 @@
  
  Dynamic Timer (HH:MM:SS) provided while the test is going on 
  
-* UI made using Tkinter
-* Data of Students and Marks scored handled using MySQL
+* UI is made using Tkinter
+* Data of Students and Marks scored are handled using MySQL
 
