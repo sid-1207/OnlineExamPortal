@@ -1,6 +1,7 @@
 # OnlineExamPortal
 ## Team Members
-### [Darsh Bavishi](https://github.com/DarshBavishi)
+#### [Darsh Bavishi](https://github.com/DarshBavishi)
+#### [Joy Purohit](https://github.com/Joypurohit)
 ## Tech Stack
  * Python 
  * Tkinter
