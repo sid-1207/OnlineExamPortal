@@ -9,7 +9,7 @@
 ## Description
  This is an Online Examination Portal for Objective based sections
  
- Consists of an highly secure Authentication Setup
+ Consists of a highly secure Authentication Setup
  
  Throws random questions selected from an already set Question Bank to each and every registered candidate
  
